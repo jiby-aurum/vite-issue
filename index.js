@@ -1,1 +1,1 @@
-export * from 'gremlin'
+export * from 'ws'

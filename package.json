@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gremlin": "^3.6.1",
+    "ws": "^3.6.1",
     "vite": "^3.1.7"
   }
 }
